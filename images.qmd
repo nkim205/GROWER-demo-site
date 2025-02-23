@@ -1,0 +1,15 @@
+---
+title: "Astrophotograhy images"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+![Orion, Horsehead, and Flame Nebula](images/Orion.png)
+
+![The Moon](images/Le_Moon.PNG.png)
+
+![North Carolina Customer Data from Task 1](images/NorthCarolina.png)
+
+![Virginia Customer Data from Task 1](images/Virginia.png)

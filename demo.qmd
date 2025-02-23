@@ -6,7 +6,7 @@ format:
 jupyter: python3
 ---
 
-For a demonstration of a line plot on a polar axis, see @fig-polar.
+For a demonstration of a smiley face plotted, see @fig-smiley.
 
 ```{python}
 # Code from https://gist.github.com/bbengfort/dd9d8027a37f3a96c44323a8303520f0

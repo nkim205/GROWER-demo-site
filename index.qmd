@@ -4,4 +4,6 @@ title: "GROWER-demo-site"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Astrophotography and Customer Data](https://nkim205.github.io/GROWER-demo-site/images.html)
+
+[Smiley Face Graph](https://nkim205.github.io/GROWER-demo-site/demo.html)
