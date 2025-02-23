@@ -1,9 +1,11 @@
 ---
-title: "GROWER-demo-site"
+title: "GROWER Quarto Demo Website"
 ---
 
-This is a Quarto website.
+#### Welcome to my Quarto website hosted via GitHub Pages!
 
 [Astrophotography and Customer Data](https://nkim205.github.io/GROWER-demo-site/images.html)
 
 [Smiley Face Graph](https://nkim205.github.io/GROWER-demo-site/demo.html)
+
+![Mountain Goat At Glacier National Park by me](images/GOAT.png)

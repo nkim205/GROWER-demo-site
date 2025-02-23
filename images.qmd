@@ -1,5 +1,5 @@
 ---
-title: "Astrophotograhy images"
+title: "Astrophotograhy Images and State Customer Data Graphs"
 format:
   html:
     code-fold: true
@@ -13,3 +13,5 @@ jupyter: python3
 ![North Carolina Customer Data from Task 1](images/NorthCarolina.png)
 
 ![Virginia Customer Data from Task 1](images/Virginia.png)
+
+All images on this page were capture by me

@@ -9,15 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "GROWER-demo-site",
+    "title": "GROWER Quarto Demo Website",
     "section": "",
-    "text": "This is a Quarto website.\nAstrophotography and Customer Data\nSmiley Face Graph"
+    "text": "Welcome to my Quarto website hosted via GitHub Pages!\nAstrophotography and Customer Data\nSmiley Face Graph\n\n\n\nMountain Goat At Glacier National Park by me"
   },
   {
     "objectID": "images.html",
     "href": "images.html",
-    "title": "Astrophotograhy images",
+    "title": "Astrophotograhy Images and State Customer Data Graphs",
     "section": "",
-    "text": "Orion, Horsehead, and Flame Nebula\n\n\n\n\n\nThe Moon\n\n\n\n\n\nNorth Carolina Customer Data from Task 1\n\n\n\n\n\nVirginia Customer Data from Task 1"
+    "text": "Orion, Horsehead, and Flame Nebula\n\n\n\n\n\nThe Moon\n\n\n\n\n\nNorth Carolina Customer Data from Task 1\n\n\n\n\n\nVirginia Customer Data from Task 1\n\n\nAll images on this page were capture by me"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-quarto-website-hosted-via-github-pages",
+    "href": "index.html#welcome-to-my-quarto-website-hosted-via-github-pages",
+    "title": "GROWER Quarto Demo Website",
+    "section": "",
+    "text": "Astrophotography and Customer Data\nSmiley Face Graph\n\n\n\nMountain Goat At Glacier National Park by me"
   }
 ]
