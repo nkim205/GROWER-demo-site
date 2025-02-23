@@ -9,8 +9,7 @@ jupyter: python3
 For a demonstration of a line plot on a polar axis, see @fig-polar.
 
 ```{python}
-#| label: fig-polar
-#| fig-cap: "A line plot on a polar axis"
+# Code from https://gist.github.com/bbengfort/dd9d8027a37f3a96c44323a8303520f0
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -36,8 +35,5 @@ ax.spines['bottom'].set_visible(False)
 ax.set_xticks([])
 ax.set_yticks([])
 
-# ax.plot(theta, r)
-# ax.set_rticks([0.5, 1, 1.5, 2])
-# ax.grid(True)
 plt.show()
 ```

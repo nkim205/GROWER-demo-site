@@ -4,6 +4,13 @@
     "href": "demo.html",
     "title": "Quarto Demo",
     "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nfig = plt.figure(figsize=(8,8))\nax = fig.add_subplot(1,1,1, aspect=1)\n\nax.scatter([.5],[.5], c='#FFCC00', s=120000, label=\"face\")\nax.scatter([.35, .65], [.63, .63], c='k', s=1000, label=\"eyes\")\n\nX = np.linspace(.3, .7, 100)\nY = 2* (X-.5)**2 + 0.30\n\nax.plot(X, Y, c='k', linewidth=8, label=\"smile\")\n\nax.set_xlim(0,1)\nax.set_ylim(0,1)\n\nax.spines['top'].set_visible(False)\nax.spines['right'].set_visible(False)\nax.spines['left'].set_visible(False)\nax.spines['bottom'].set_visible(False)\nax.set_xticks([])\nax.set_yticks([])\n\n# ax.plot(theta, r)\n# ax.set_rticks([0.5, 1, 1.5, 2])\n# ax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GROWER-demo-site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
