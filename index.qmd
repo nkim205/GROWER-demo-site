@@ -1,5 +1,5 @@
 ---
-title: "GROWER Quarto Demo Website"
+title: "GROWER Quarto Demo Home Page"
 ---
 
 #### Welcome to my Quarto website hosted via GitHub Pages!

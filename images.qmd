@@ -5,6 +5,9 @@ format:
     code-fold: true
 jupyter: python3
 ---
+[Smiley Face Graph](https://nkim205.github.io/GROWER-demo-site/demo.html)
+
+[Home Page](https://nkim205.github.io/GROWER-demo-site/index.html)
 
 ![Orion, Horsehead, and Flame Nebula](images/Orion.png)
 
