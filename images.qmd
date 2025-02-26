@@ -17,4 +17,4 @@ jupyter: python3
 
 ![Virginia Customer Data from Task 1](images/Virginia.png)
 
-All images on this page were capture by me
+All images on this page were captured by me
