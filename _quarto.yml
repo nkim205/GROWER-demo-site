@@ -8,18 +8,14 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Temperature Graphs
+        href: demo.qmd      
       - text: Example Images
         href: images.qmd
-      - text: Smiley Graph
-        href: demo.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: Flatly
+    dark: Darkly
     css: styles.css
     toc: true
-
-
-
