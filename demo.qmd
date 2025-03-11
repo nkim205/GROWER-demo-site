@@ -4,7 +4,7 @@ title: "Mean Temperature By Season (GA, TX)"
 format:
   html:
     code-fold: true
-    code-summary: "Show Plot"
+    code-summary: "Show Code"
 
 website:
   navbar:
@@ -17,16 +17,16 @@ jupyter: python3
 
 # {style="text-align: center"}  
 ### Georgia Temperature Graphs 
-![GA Winter](images/meanTemps/GA_Winter.png)
-![GA Spring](images/meanTemps/GA_Spring.png)
-![GA Summer](images/meanTemps/GA_Summer.png)
-![GA Autumn](images/meanTemps/GA_Autumn.png)
+[GA Winter](images/meanTemps/GA_Winter.png){.btn .btn-outline-primary .btn role="button"}
+[GA Spring](images/meanTemps/GA_Spring.png){.btn .btn-outline-primary .btn role="button"}
+[GA Summer](images/meanTemps/GA_Summer.png){.btn .btn-outline-primary .btn role="button"}
+[GA Autumn](images/meanTemps/GA_Autumn.png){.btn .btn-outline-primary .btn role="button"}
 
 ### Texas Temperature Graphs 
-![TX Winter](images/meanTemps/TX_Winter.png)
-![TX Spring](images/meanTemps/TX_Spring.png)
-![TX Summer](images/meanTemps/TX_Summer.png)
-![TX Autumn](images/meanTemps/TX_Autumn.png)
+[TX Winter](images/meanTemps/TX_Winter.png){.btn .btn-outline-primary .btn role="button"}
+[TX Spring](images/meanTemps/TX_Spring.png){.btn .btn-outline-primary .btn role="button"}
+[TX Summer](images/meanTemps/TX_Summer.png){.btn .btn-outline-primary .btn role="button"}
+[TX Autumn](images/meanTemps/TX_Autumn.png){.btn .btn-outline-primary .btn role="button"}
 
 # {style="text-align: left"}
 ```{python}

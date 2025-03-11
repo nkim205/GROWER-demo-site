@@ -10,7 +10,7 @@ website:
         href: index.qmd
       - text: Temperature Graphs
         href: demo.qmd      
-      - text: Example Images
+      - text: Astrophotography Images
         href: images.qmd
 
 format:
