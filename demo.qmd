@@ -1,16 +1,16 @@
 ---
 title: "Quarto Smiley Face Graph Demo"
+
 format:
   html:
     code-fold: true
+
+website:
+  navbar:
+    background: primary
+
 jupyter: python3
 ---
-[Code source](https://gist.github.com/bbengfort/dd9d8027a37f3a96c44323a8303520f0)
-
-[Astrophotography and Customer Data](https://nkim205.github.io/GROWER-demo-site/images.html)
-
-[Home Page](https://nkim205.github.io/GROWER-demo-site/index.html)
-
 ```{python}
 import numpy as np
 import matplotlib.pyplot as plt
@@ -38,3 +38,4 @@ ax.set_yticks([])
 
 plt.show()
 ```
+[Source Code](https://gist.github.com/bbengfort/dd9d8027a37f3a96c44323a8303520f0)

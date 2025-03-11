@@ -1,20 +1,18 @@
 ---
-title: "Astrophotograhy Images and State Customer Data Graphs"
+title: "Astrophotograhy Images"
+
 format:
   html:
     code-fold: true
+
+website:
+  navbar:
+    background: primary
+
 jupyter: python3
 ---
-[Smiley Face Graph](https://nkim205.github.io/GROWER-demo-site/demo.html)
-
-[Home Page](https://nkim205.github.io/GROWER-demo-site/index.html)
-
 ![Orion, Horsehead, and Flame Nebula](images/Orion.png)
 
 ![The Moon](images/Le_Moon.PNG.png)
-
-![North Carolina Customer Data from Task 1](images/NorthCarolina.png)
-
-![Virginia Customer Data from Task 1](images/Virginia.png)
 
 All images on this page were captured by me
